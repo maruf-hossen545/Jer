@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 7,
+  "bottomRow": 16,
   "boxShadow": "none",
   "defaultImage": "https://assets.appsmith.com/widgets/default.png",
   "dynamicBindingPathList": [
@@ -17,7 +17,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "1ay5mppyxx",
-  "leftColumn": 21,
+  "leftColumn": 0,
   "maxZoomLevel": 1,
   "mobileBottomRow": 12,
   "mobileLeftColumn": 19,
@@ -29,8 +29,8 @@
   "parentId": "fcv02ijirz",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 30,
-  "topRow": 0,
+  "rightColumn": 16,
+  "topRow": 5,
   "type": "IMAGE_WIDGET",
   "version": 1,
   "widgetId": "c2kk3pph6v",
